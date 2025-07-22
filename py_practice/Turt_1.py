@@ -36,4 +36,3 @@ t.down()
 t.circle(200)
 
 turtle.exitonclick() #결과창 클릭하는 순간 꺼짐
-
