@@ -20,3 +20,5 @@ t.fd(size)
 t.lt(120)
 t.fd(size)
 t.lt(120)
+
+turtle.exitonclick()
