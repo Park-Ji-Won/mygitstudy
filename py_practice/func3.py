@@ -3,5 +3,5 @@ def get_sum(start,end):
     for i in range(start,end+1):
         sum += i
     return sum
-    
-print(get_sum(1,4))
+
+print(get_sum(1,10))
