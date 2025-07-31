@@ -11,5 +11,5 @@ df=pd.DataFrame(data)
 print(df)
 
 # CSV 파일을 사용하여 DataFrame 객체 생성하기
-df=pd.read_csv('data.csv')
-print(df)
+#df=pd.read_csv('data.csv')
+#print(df)
