@@ -35,5 +35,5 @@ for key in sorted(phone_book.keys()): #sorted() 함수를 활용하여 딕셔너
 del phone_book['고니시']#딕셔너리안에 해당 항목을 삭제
 print(phone_book)
 
-phone_book.clear()
+phone_book.clear()#딕셔너리안의 모든 항목 삭제
 print(phone_book)
