@@ -5,6 +5,7 @@ with open('my_file.txt','w',encoding='utf-8') as f:
     f.write("Hello, Mister John Doe!\n")
     f.write("We are really miss you!\n")
     
+#해당 파일에 내용 추가 한다    
 with open('my_file.txt','a',encoding='utf-8') as f:
     f.write("We are waiting for defence front line\n")
     f.write("Please give me the order")
